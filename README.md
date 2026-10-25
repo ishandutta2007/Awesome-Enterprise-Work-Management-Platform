@@ -393,3 +393,8 @@ If you find this directory valuable for your organization, team, or research, pl
   <sub>Maintained with ❤️ by <a href="https://github.com/ishandutta2007">Ishan Dutta</a> and contributors. Licensed under <a href="LICENSE">MIT</a>.</sub>
 </div>
 >>>>>>> b96692c51cd9ca972812ea2fcf46c837d5abd648
+Copy-Item README.md README.md.bak -Force
+# Manual step: replace SaaS and Open-Source sections with content above
+git add README.md
+git commit -m "docs: add work management pricing (Wrike, Jira, Smartsheet, Microsoft Project) and open-source OpenProject/Worklenz/Leantime/Wekan/Focalboard"
+git push
