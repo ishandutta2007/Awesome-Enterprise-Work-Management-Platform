@@ -127,7 +127,7 @@ Open-source and self-hosted work management platforms grant organizations **tota
 
 ### ⭐ Open-Source Leaderboard (Sorted by Stars)
 
-The following open-source platforms are ranked in **descending order by GitHub Stars_Count**:
+The following open-source platforms are ranked in **descending order by GitHub_Stars_Count**:
 
 | 🏆 Rank | 📦 Project | ⭐ Stars_Badge (Click to Stargazers) | 📜 License | 🛠️ Core Tech Stack | 💡 Focus / Deployment |
 | :---: | :--- | :---: | :---: | :--- | :--- |
@@ -376,7 +376,7 @@ We actively welcome contributions from the global open-source community, operati
    ```bash
    git checkout -b add-platform-entry
    ```
-4. **Update `README.md`**: Follow existing formatting guidelines, include verified pricing/free tier parameters, GitHub Stars_Badges (`style=social&color=white`), and factual descriptions.
+4. **Update `README.md`**: Follow existing formatting guidelines, include verified pricing/free tier parameters, GitHub_Stars_Badges (`style=social&color=white`), and factual descriptions.
 5. **Commit and Push**:
    ```bash
    git commit -m "Add new enterprise work management platform"
