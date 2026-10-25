@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Awesome-Enterprise-Work-Management-Platform
-
-=======
 <div align="center">
 
 ![Awesome Enterprise Work Management Platform](assets/banner.svg)
